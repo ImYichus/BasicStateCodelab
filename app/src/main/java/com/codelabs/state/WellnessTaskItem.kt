@@ -14,7 +14,9 @@
  * limitations under the License.
  */
 package com.codelabs.state
-
+/*
+* JESUS ESQUIPULAS QUINTINO LEYVA - S22120205
+* */
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
